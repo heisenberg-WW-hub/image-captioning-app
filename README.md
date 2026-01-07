@@ -162,7 +162,7 @@ Dự án được phát hành theo giấy phép [MIT License](LICENSE).
 
 ## 👤 Tác giả
 
-** Trần Anh Tùng - 20227164 **
+**Trần Anh Tùng - 20227164**
 
 **HUST-FaMI**
 
