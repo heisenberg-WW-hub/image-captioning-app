@@ -148,13 +148,11 @@ Kiểm tra kết nối internet
 Thử lại sau vài phút (Hugging Face có thể đang bảo trì)
 ```
 
-## 🌐 Deploy lên Streamlit Cloud
+## 🌐 Demo trực tuyến trên Hugging Face
 
-1. Push code lên GitHub
-2. Truy cập [share.streamlit.io](https://share.streamlit.io)
-3. Chọn repository và deploy
+🚀 **Trải nghiệm ngay tại đây**: [Image Captioning App](https://huggingface.co/spaces/anhtung1106/image-captioning-app)
 
-> ⚠️ **Lưu ý**: Streamlit Cloud miễn phí có giới hạn RAM (~1GB). Nếu gặp lỗi, hãy thử [Hugging Face Spaces](https://huggingface.co/spaces).
+> 💡 **Gợi ý**: Ứng dụng được deploy trên Hugging Face Spaces với GPU miễn phí. Bạn có thể sử dụng trực tiếp mà không cần cài đặt.
 
 ## 📄 License
 
@@ -162,11 +160,9 @@ Dự án được phát hành theo giấy phép [MIT License](LICENSE).
 
 ## 👤 Tác giả
 
-**Trần Anh Tùng - 20227164**
-
-**HUST-FaMI**
-
-**Đồ án 2 - 2024**
+**Trần Anh Tùng**
+**HUST - FaMI**
+**Đồ án 2 - 2026**
 
 ---
 
