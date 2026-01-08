@@ -161,7 +161,9 @@ Dự án được phát hành theo giấy phép [MIT License](LICENSE).
 ## 👤 Tác giả
 
 **Trần Anh Tùng**
+
 **HUST - FaMI**
+
 **Đồ án 2 - 2026**
 
 ---
